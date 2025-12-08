@@ -48,5 +48,10 @@ This creates a sharp contrast with her earlier idealized image and highlights th
 *“Ought a woman to disclose her frailties earlier than the wedding-day? Few husbands, I assure you, make the discovery in such good season, and still fewer complain that these trifles are concealed too long. Well, what a strange man you are! Poh! you are joking.”*
 
 # A quantitative analysis using Voyant tools
-
-<img width="465" height="77" alt="截屏2025-12-08 19 16 56" src="https://github.com/user-attachments/assets/042ac917-e02a-4092-a35d-bd0108f503ee" />
+## Word cloud
+**PART1**  Words that portray the wife’s beautiful image, reflecting the husband’s “romantic fantasy” about her.
+<img width="1072" height="620" alt="part1" src="https://github.com/user-attachments/assets/7ed79375-4e3d-4bb5-ac41-1d70b9e816ce" />
+**PART2**  Words related to unexpected events, revealing conflict and marking a shift from gentleness to brutality.
+<img width="1046" height="616" alt="part2" src="https://github.com/user-attachments/assets/12b0ab46-db7f-4c0d-b642-b0fbfa35e5c3" />
+**PART3**  Words that turn toward “reflection,” indicating the novel’s movement into a deeper stage.
+<img width="960" height="612" alt="part3" src="https://github.com/user-attachments/assets/b6d62137-6fdc-456d-89f9-6d84ba2cb672" />
