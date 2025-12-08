@@ -1,5 +1,5 @@
 # Close Reading
-## themes
+## Themes
 **1.The conflict between men’s idealized fantasies of marriage and the reality of human relationships.**
 The story illustrates how men often project elaborate fantasies onto women, hoping to marry a perfectly flawless partner. However, the truth revealed in the narrative is that women, like all human beings, inevitably possess their own small imperfections. The tension between idealized expectations and lived reality forms a central thematic conflict in the story.
 
@@ -9,7 +9,7 @@ In a society that demands women to appear perfect, female are compelled to mask 
 **3.The opportunistic side of human nature**
 It satirizes how, in the face of money, all human ideals and convictions become unimportant.
 
-## narrative structure
+## Narrative structure
 The story unfolds in a chronological order, narrated entirely from the first-person perspective of the husband, who recounts the development of his relationship with his wife.
 
 **PART1**
@@ -21,7 +21,7 @@ The overturning of the coach becomes the dramatic center of the narrative. The n
 **PART3**
 Another conflict is triggered, leading to a final reversal. The discovery of the old newspaper article reveals the wife’s past, leading the husband into an exaggerated emotional crisis.The wife calmly persuades him to accept the truth, and when the husband learns about the five thousand dollars awarded from the lawsuit, his attitude undergoes a sudden and complete reversal.
 
-## narrative voice
+## Narrative voice
 1.The overturning of the coach symbolizes the collapse of marital illusions.
 
 2.The curls, the smile, and the “Kalydor” represent the constructed image of the perfect woman.
@@ -29,7 +29,7 @@ Another conflict is triggered, leading to a final reversal. The discovery of the
 3.The man descriptions of his wife frequently draw on mythological imagery,such as a gorgon, Old Nick, and even a fairy who is half woman and half monster.
 
 ## key passages
-**1.the man has many rules to "an Ideal wife"**
+**1.The man has many rules to "an Ideal wife"**
 
 It describes the man’s naivety and fastidiousness, laying the groundwork for the later “overturning” of his wife’s image.
 
@@ -55,3 +55,7 @@ This creates a sharp contrast with her earlier idealized image and highlights th
 <img width="1046" height="616" alt="part2" src="https://github.com/user-attachments/assets/12b0ab46-db7f-4c0d-b642-b0fbfa35e5c3" />
 **PART3**  Words that turn toward “reflection,” indicating the novel’s movement into a deeper stage.
 <img width="960" height="612" alt="part3" src="https://github.com/user-attachments/assets/b6d62137-6fdc-456d-89f9-6d84ba2cb672" />
+## Trends
+The shifting frequencies of “wife,” “woman,” “curls,” and “smile” reveal the narrator’s movement from idealizing his wife’s beauty, to confronting her as a real and flawed woman.
+
+<img width="465" height="276" alt="2" src="https://github.com/user-attachments/assets/5feeff5a-8c40-4d7e-8fdf-2cd3c5c2e790" />
