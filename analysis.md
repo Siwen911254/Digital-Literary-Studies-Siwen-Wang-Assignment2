@@ -41,8 +41,12 @@ This creates a sharp contrast with her earlier idealized image and highlights th
 
 *"The blows were given by a person of grisly aspect with a head almost bald and sunken cheeks, apparently of the feminine gender, though hardly to be classed in the gentler sex. There being no teeth to modulate the voice, it had a mumbled fierceness-not passionate, but stern-which absolutely made me quiver like calves’-foot jelly."*
 
-**3.
+**3.The wife’s straightforward words shatter the man’s illusions.**
+
+*"Women are not angels; if they were, they would go to heaven for husbands—or, at least, be more difficult in their choice on earth"*
 
 *“Ought a woman to disclose her frailties earlier than the wedding-day? Few husbands, I assure you, make the discovery in such good season, and still fewer complain that these trifles are concealed too long. Well, what a strange man you are! Poh! you are joking.”*
-# a quantitative analysis using Voyant tools
 
+# A quantitative analysis using Voyant tools
+
+<img width="465" height="77" alt="截屏2025-12-08 19 16 56" src="https://github.com/user-attachments/assets/042ac917-e02a-4092-a35d-bd0108f503ee" />
