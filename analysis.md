@@ -21,7 +21,7 @@ The overturning of the coach becomes the dramatic center of the narrative. The n
 **PART3**
 Another conflict is triggered, leading to a final reversal. The discovery of the old newspaper article reveals the wife’s past, leading the husband into an exaggerated emotional crisis.The wife calmly persuades him to accept the truth, and when the husband learns about the five thousand dollars awarded from the lawsuit, his attitude undergoes a sudden and complete reversal.
 
-## voice
+## narrative voice
 1.The overturning of the coach symbolizes the collapse of marital illusions.
 
 2.The curls, the smile, and the “Kalydor” represent the constructed image of the perfect woman.
